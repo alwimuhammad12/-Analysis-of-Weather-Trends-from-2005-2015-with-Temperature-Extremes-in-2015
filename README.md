@@ -5,5 +5,5 @@ This project analyzes daily minimum and maximum temperatures between the years 2
 ## Project Structure:
 - **assets/**: Contains the datasets.
 - Jupyter notebook with all the analysis.
-- Python scripts for data analysis (optional, if needed).
+- Python scripts for data analysis.
 - **output/**: Contains the generated plots and visualizations.
